@@ -4,4 +4,4 @@
 
 🤖 Cybersecurity project: https://github.com/UserNotFoundXEption/BetterTwitter
 
-😎 Portfolio: usernotfoundxeption.github.io
+😎 Portfolio: https://usernotfoundxeption.github.io
