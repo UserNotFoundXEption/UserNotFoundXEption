@@ -5,5 +5,3 @@
 ➗ API for Duolingo-like math learning app: https://github.com/MathAppPW/Api2
 
 🤖 Cybersecurity project: https://github.com/UserNotFoundXEption/BetterTwitter
-
-😎 Portfolio: https://usernotfoundxeption.github.io
